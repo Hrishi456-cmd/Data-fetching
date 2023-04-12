@@ -1,0 +1,9 @@
+{
+    "categories": [],
+    "created_at": "2020-01-05 13:42:20.262289",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "nNSiXMgCSqKuioZGWqhW3g",
+    "updated_at": "2020-01-05 13:42:20.262289",
+    "url": "https://api.chucknorris.io/jokes/nNSiXMgCSqKuioZGWqhW3g",
+    "value": "What happened to the crew of the Mary Celeste? Chuck Norris."
+}
